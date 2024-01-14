@@ -4,7 +4,6 @@
 <!--
 <!-- Html5 -->
 <img width = "70" height = "70"  src = "https://github.com/SuperSaiyanCoding/Profile-readme-badges/assets/112682624/bceb699f-e861-4119-9748-8f4c80991bfd">
-**WEWINDEES/wewindees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
